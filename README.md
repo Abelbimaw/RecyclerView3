@@ -7,8 +7,6 @@
 ![Image SS2](https://github.com/Abelbimaw/RecyclerView3/blob/master/Screenshot_2017_1_3_9_39_7.png)
 ![Image SS3](https://github.com/Abelbimaw/RecyclerView3/blob/master/Screenshot_2017_1_3_9_39_15.png)
 
-#Link
-https://drive.google.com/drive/folders/0B9T-XZe9lpXySlB0ZFpqOWswbjQ?usp=sharing
 
 # Identitas
 Nama          : Abel Bima Wiratama
